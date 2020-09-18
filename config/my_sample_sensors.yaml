@@ -4,11 +4,7 @@ sensors:
   #   pose:
   #     xyz: [1.6, 2.25, 0.91]
   #     rpy: [0, 0, 'pi']
-  # proximity_sensor_1:
-  #   type: proximity_sensor
-  #   pose:
-  #     xyz: [0.95, 2.6, 0.92]
-  #     rpy: [0, 0, 0]
+  
   logical_camera_1:
     type: logical_camera
     pose:
@@ -55,11 +51,7 @@ sensors:
     pose:
       xyz: [0.303349, -3.107138, 1.302731]
       rpy: [-0.291022, 1.564350, 2.851004]
-  # laser_profiler_1:
-  #   type: laser_profiler
-  #   pose:
-  #     xyz: [1.21, 4, 1.6]
-  #     rpy: ['-pi', 'pi/2', 'pi/2']
+  
 
 
 
